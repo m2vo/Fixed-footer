@@ -1,0 +1,9 @@
+ .jumbotron {
+    background-color: cyan;
+}
+footer {
+    background-color: cyan;
+    min-height: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
