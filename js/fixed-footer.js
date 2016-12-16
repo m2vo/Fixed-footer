@@ -1,6 +1,6 @@
 
 function fixedFooter() {
-    // Collecter les varaiables
+    // Collecter les variables
     var footer = document.querySelector("footer");      // objet footer
     var hautFooter = footer.offsetHeight;               // hauteur du footer
     var hautFenetre = window.innerHeight;               // Hauteur de la fenêtre du navigateur
