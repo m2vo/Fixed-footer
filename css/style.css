@@ -1,12 +1,8 @@
- .jumbotron {
-    background-color: cyan;
+.jumbotron {
+   background-color: cyan;
 }
 footer {
     background-color: cyan;
     text-align: center;
     padding: 20px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
